@@ -1,0 +1,11 @@
+room,occupied,guest,nights,bill
+1,true,Charan,2,3000.00
+2,true,Karan,4,6000.00
+3,false,n/a,0,0.00
+4,true,Arjun,3,4500.00
+5,false,n/a,0,0.00
+6,false,n/a,0,0.00
+7,false,n/a,0,0.00
+8,false,n/a,0,0.00
+9,false,n/a,0,0.00
+10,false,n/a,0,0.00
