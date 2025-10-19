@@ -1,0 +1,7 @@
+{
+  "rooms": [
+    {"room": 1, "occupied": true, "guest": "Goutham", "nights": 2, "bill": 3000.00},
+    {"room": 2, "occupied": true, "guest": "Karan", "nights": 4, "bill": 6000.00},
+    {"room": 3, "occupied": false, "guest": "n/a", "nights": 0, "bill": 0.00},
+    {"room": 4, "occupied": true, "guest": "Arjun", "nights": 3, "bill": 4500.00},
+    {"room": 5, "occupied": false, "guest": "n/a
